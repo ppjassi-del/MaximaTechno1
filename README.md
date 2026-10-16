@@ -1,35 +1,48 @@
 # MaximaTechno — Personal Portfolio
 
-A modern, responsive portfolio website for **Prem Paul Jassi**, built with plain HTML, CSS and JavaScript.
+A modern, high-performance portfolio website for **Prem Paul Jassi**, showcasing full-stack web applications, landing pages, and digital products.
 
-## Live GitHub Pages URL
+## Live Deployments
 
-After enabling GitHub Pages, the site will be available at:
+- **Portfolio Site (Vercel)**: [https://maxima-techno1.vercel.app](https://maxima-techno1.vercel.app)
+- **GitHub Profile**: [https://github.com/ppjassi-del](https://github.com/ppjassi-del)
 
-`https://maximatechno.github.io/`
+## Featured Projects
 
-## Tech Stack
+1. **Kahwa Raw Cafe**
+   - **Live on Vercel**: [https://kahwarawcafe.vercel.app](https://kahwarawcafe.vercel.app)
+   - **Repository**: [ppjassi-del/kahwarawcafe](https://github.com/ppjassi-del/kahwarawcafe)
+   - **Tech Stack**: TanStack Start, Tailwind CSS, Vite, Nitro Serverless SSR
 
-- HTML5
-- CSS3
+2. **The Braces & Implant Clinic**
+   - **Live on Vercel**: [https://braces-implantsclinic-prem-paul-del.vercel.app](https://braces-implantsclinic-prem-paul-del.vercel.app)
+   - **Repository**: [ppjassi-del/braces-implantsclinic](https://github.com/ppjassi-del/braces-implantsclinic)
+   - **Tech Stack**: TanStack Start, React 19, Tailwind CSS, Vercel Serverless SSR
+
+3. **EMI Freedom Planner**
+   - **Live Product**: [https://maximatechno.com/1285-2/](https://maximatechno.com/1285-2/)
+   - **Tech Stack**: WordPress, Sales Funnel, Conversion Optimization
+
+4. **AI + Creator Systems**
+   - **Workflows**: [ppjassi-del](https://github.com/ppjassi-del)
+   - **Tech Stack**: AI Automation, Prompt Engines, Workflow Pipelines
+
+## Tech Stack (Portfolio)
+
+- Semantic HTML5
+- Vanilla CSS3 (Custom Glassmorphism & Micro-animations)
 - Vanilla JavaScript
-- Google Fonts
-- Responsive design
-- Intersection Observer animations
+- Google Fonts (`Inter` & `Space Grotesk`)
+- Responsive Grid Layout & Intersection Observer animations
+- Deployed on **Vercel** via GitHub integration
 
-## Run locally
+## Run Locally
 
-Open `index.html` in a browser, or use a local server such as VS Code Live Server / Antigravity Live Preview.
+Open `index.html` directly in any modern browser, or run the built-in PowerShell server:
 
-## Deploy to GitHub Pages
+```powershell
+powershell -ExecutionPolicy Bypass -File .\server.ps1
+```
 
-1. Create a repository named `MaximaTechno.github.io` under the GitHub account **MaximaTechno**.
-2. Upload `index.html`, `style.css`, `script.js`, `README.md`, and the `assets` folder.
-3. Open **Settings → Pages**.
-4. Under Build and deployment, choose **Deploy from a branch**.
-5. Select `main` and `/root`, then Save.
-6. Visit `https://maximatechno.github.io/`.
+Then navigate to `http://localhost:8080/`.
 
-## Customize
-
-Replace the placeholder `#` project links in `index.html` with your real project URLs. Add project screenshots inside `assets/` when ready.
