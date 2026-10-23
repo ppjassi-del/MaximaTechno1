@@ -9,21 +9,26 @@ A modern, high-performance portfolio website for **Prem Paul Jassi**, showcasing
 
 ## Featured Projects
 
-1. **Kahwa Raw Cafe**
+1. **Khaas Cafe (ਖਾਸ) — Jalandhar** *(Latest Release)*
+   - **Live on Vercel**: [https://cafekhaas.vercel.app](https://cafekhaas.vercel.app)
+   - **Repository**: [ppjassi-del/cafekhaas](https://github.com/ppjassi-del/cafekhaas)
+   - **Tech Stack**: TanStack Start, React 19, Tailwind CSS v4, Radix UI, Vite, Nitro Serverless SSR, TypeScript
+
+2. **Kahwa Raw Cafe**
    - **Live on Vercel**: [https://kahwarawcafe.vercel.app](https://kahwarawcafe.vercel.app)
    - **Repository**: [ppjassi-del/kahwarawcafe](https://github.com/ppjassi-del/kahwarawcafe)
    - **Tech Stack**: TanStack Start, Tailwind CSS, Vite, Nitro Serverless SSR
 
-2. **The Braces & Implant Clinic**
+3. **The Braces & Implant Clinic**
    - **Live on Vercel**: [https://braces-implantsclinic-prem-paul-del.vercel.app](https://braces-implantsclinic-prem-paul-del.vercel.app)
    - **Repository**: [ppjassi-del/braces-implantsclinic](https://github.com/ppjassi-del/braces-implantsclinic)
    - **Tech Stack**: TanStack Start, React 19, Tailwind CSS, Vercel Serverless SSR
 
-3. **EMI Freedom Planner**
+4. **EMI Freedom Planner**
    - **Live Product**: [https://maximatechno.com/1285-2/](https://maximatechno.com/1285-2/)
    - **Tech Stack**: WordPress, Sales Funnel, Conversion Optimization
 
-4. **AI + Creator Systems**
+5. **AI + Creator Systems**
    - **Workflows**: [ppjassi-del](https://github.com/ppjassi-del)
    - **Tech Stack**: AI Automation, Prompt Engines, Workflow Pipelines
 
